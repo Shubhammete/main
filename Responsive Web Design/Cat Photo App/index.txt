@@ -1,0 +1,1 @@
+The h1 through h6 heading elements are used to signify the importance of content below them
