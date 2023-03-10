@@ -1,1 +1,4 @@
-The h1 through h6 heading elements are used to signify the importance of content below them
+1) <!DOCTYPE html> 
+It is used to inform a website visitor's browser that the document being rendered is an HTML document compliant with HTML standards
+<meta charset="UTF-8"/>
+The meta-charset-utf-8 attribute is used to check if a page explicitly declares the character encoding as utf-8 using a meta tag early in the document
